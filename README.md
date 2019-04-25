@@ -1,4 +1,4 @@
-# indian State City  Laravel , Import State and city in larvel  
+# Indian State City  Laravel , Import State and city in laravel  
 
 ## Laravel Seeder, Model and Migration file
 
